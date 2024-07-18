@@ -42,7 +42,4 @@ Contributions are welcome! If you want to contribute to this project, follow the
 #### License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-#### Contact
-For questions or feedback, feel free to contact me at your_email@example.com.
-
 ---
